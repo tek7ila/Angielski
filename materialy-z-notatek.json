@@ -1,0 +1,1785 @@
+{
+  "format": "angielski-notatki",
+  "version": 2,
+  "source": "notatki użytkownika — zdjęcia październik/listopad 2026",
+  "items": [
+    {
+      "id": "notes-0001",
+      "type": "word",
+      "pl": "amunicja",
+      "en": "ammunition",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0002",
+      "type": "word",
+      "pl": "awans",
+      "en": "promotion",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0003",
+      "type": "word",
+      "pl": "awansować",
+      "en": "promote",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0004",
+      "type": "word",
+      "pl": "awansowany",
+      "en": "promoted",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0005",
+      "type": "word",
+      "pl": "batalion",
+      "en": "battalion",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0006",
+      "type": "word",
+      "pl": "baza wojskowa",
+      "en": "military base",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0007",
+      "type": "word",
+      "pl": "bezpośrednia walka",
+      "en": "close combat",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0008",
+      "type": "word",
+      "pl": "bezpieczeństwo",
+      "en": "security",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0009",
+      "type": "word",
+      "pl": "bojowy wóz piechoty",
+      "en": "infantry fighting vehicle",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0010",
+      "type": "word",
+      "pl": "broń",
+      "en": "weapon",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0011",
+      "type": "word",
+      "pl": "broń palna",
+      "en": "firearm",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0012",
+      "type": "word",
+      "pl": "broń strzelecka",
+      "en": "small arms",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0013",
+      "type": "word",
+      "pl": "brzuszki",
+      "en": "sit-ups",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0014",
+      "type": "word",
+      "pl": "cel",
+      "en": "target",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0015",
+      "type": "word",
+      "pl": "cel wysokiej wartości",
+      "en": "high-value target",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0016",
+      "type": "word",
+      "pl": "celny",
+      "en": "accurate",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0017",
+      "type": "word",
+      "pl": "cywilny",
+      "en": "civilian",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0018",
+      "type": "word",
+      "pl": "dowódca",
+      "en": "commander",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0019",
+      "type": "word",
+      "pl": "dowódca kompanii",
+      "en": "company commander",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0020",
+      "type": "word",
+      "pl": "dowódca patrolu",
+      "en": "patrol commander",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0021",
+      "type": "word",
+      "pl": "dowodzenie",
+      "en": "command",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0022",
+      "type": "word",
+      "pl": "dron",
+      "en": "drone",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0023",
+      "type": "word",
+      "pl": "dwustronny",
+      "en": "bilateral",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0024",
+      "type": "word",
+      "pl": "działania niekonwencjonalne",
+      "en": "unconventional operations",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0025",
+      "type": "word",
+      "pl": "działania zbrojne",
+      "en": "military operations",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0026",
+      "type": "word",
+      "pl": "emisje dwutlenku węgla",
+      "en": "carbon dioxide emissions",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0027",
+      "type": "word",
+      "pl": "eskalacja",
+      "en": "escalation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0028",
+      "type": "word",
+      "pl": "flota",
+      "en": "fleet",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0029",
+      "type": "word",
+      "pl": "gromadzić informacje",
+      "en": "gather intelligence",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0030",
+      "type": "word",
+      "pl": "gromadzić się",
+      "en": "gather",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0031",
+      "type": "word",
+      "pl": "hełm",
+      "en": "helmet",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0032",
+      "type": "word",
+      "pl": "inflacja",
+      "en": "inflation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0033",
+      "type": "word",
+      "pl": "interwencja",
+      "en": "intervention",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0034",
+      "type": "word",
+      "pl": "inwazja",
+      "en": "invasion",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0035",
+      "type": "word",
+      "pl": "kamizelka taktyczna",
+      "en": "tactical vest",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0036",
+      "type": "word",
+      "pl": "karabin",
+      "en": "rifle",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0037",
+      "type": "word",
+      "pl": "karabinek szturmowy",
+      "en": "assault rifle",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0038",
+      "type": "word",
+      "pl": "klif",
+      "en": "cliff",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0039",
+      "type": "word",
+      "pl": "kolba",
+      "en": "stock",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0040",
+      "type": "word",
+      "pl": "kompania",
+      "en": "company",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0041",
+      "type": "word",
+      "pl": "konflikt wewnętrzny",
+      "en": "internal conflict",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0042",
+      "type": "word",
+      "pl": "konwój",
+      "en": "convoy",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0043",
+      "type": "word",
+      "pl": "kryzys gospodarczy",
+      "en": "economic crisis",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0044",
+      "type": "word",
+      "pl": "lufa",
+      "en": "barrel",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0045",
+      "type": "word",
+      "pl": "lotnictwo",
+      "en": "aviation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0046",
+      "type": "word",
+      "pl": "materiały wybuchowe",
+      "en": "explosives",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0047",
+      "type": "word",
+      "pl": "meczet",
+      "en": "mosque",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0048",
+      "type": "word",
+      "pl": "misja",
+      "en": "mission",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0049",
+      "type": "word",
+      "pl": "mundur polowy",
+      "en": "combat uniform",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0050",
+      "type": "word",
+      "pl": "musztra",
+      "en": "drill",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0051",
+      "type": "word",
+      "pl": "nadzorować",
+      "en": "oversee",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0052",
+      "type": "word",
+      "pl": "niekonwencjonalny",
+      "en": "unconventional",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0053",
+      "type": "word",
+      "pl": "obiekt strategiczny",
+      "en": "strategic objective",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0054",
+      "type": "word",
+      "pl": "obserwować",
+      "en": "observe",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0055",
+      "type": "word",
+      "pl": "odwet",
+      "en": "retaliation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0056",
+      "type": "word",
+      "pl": "ograniczać",
+      "en": "limit",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0057",
+      "type": "word",
+      "pl": "operacja pokojowa",
+      "en": "peacekeeping operation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0058",
+      "type": "word",
+      "pl": "opancerzony",
+      "en": "armoured",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0059",
+      "type": "word",
+      "pl": "oporu",
+      "en": "resistance",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0060",
+      "type": "word",
+      "pl": "ostrzał",
+      "en": "shelling",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0061",
+      "type": "word",
+      "pl": "ostrzelać",
+      "en": "open fire on",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0062",
+      "type": "word",
+      "pl": "patrol",
+      "en": "patrol",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0063",
+      "type": "word",
+      "pl": "piechota",
+      "en": "infantry",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0064",
+      "type": "word",
+      "pl": "poddawać się",
+      "en": "surrender",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0065",
+      "type": "word",
+      "pl": "podpułkownik",
+      "en": "lieutenant colonel",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0066",
+      "type": "word",
+      "pl": "podporucznik",
+      "en": "second lieutenant",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0067",
+      "type": "word",
+      "pl": "podpisywać",
+      "en": "sign",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0068",
+      "type": "word",
+      "pl": "pojmać",
+      "en": "capture",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0069",
+      "type": "word",
+      "pl": "pokonać",
+      "en": "defeat",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0070",
+      "type": "word",
+      "pl": "poligon",
+      "en": "training ground",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0071",
+      "type": "word",
+      "pl": "pomoc humanitarna",
+      "en": "humanitarian aid",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0072",
+      "type": "word",
+      "pl": "pompki",
+      "en": "push-ups",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0073",
+      "type": "word",
+      "pl": "posterunek obserwacyjny",
+      "en": "observation post",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0074",
+      "type": "word",
+      "pl": "posterunek kontrolny",
+      "en": "checkpoint",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0075",
+      "type": "word",
+      "pl": "posterunek wysunięty",
+      "en": "outpost",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0076",
+      "type": "word",
+      "pl": "poważny",
+      "en": "serious",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0077",
+      "type": "word",
+      "pl": "powstrzymać",
+      "en": "prevent",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0078",
+      "type": "word",
+      "pl": "przechwycić",
+      "en": "intercept",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0079",
+      "type": "word",
+      "pl": "przeciwlotniczy",
+      "en": "anti-aircraft",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0080",
+      "type": "word",
+      "pl": "przeciwnik",
+      "en": "enemy",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0081",
+      "type": "word",
+      "pl": "przejąć",
+      "en": "take over",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0082",
+      "type": "word",
+      "pl": "przejęcie",
+      "en": "seizure",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0083",
+      "type": "word",
+      "pl": "przełącznik rodzaju ognia",
+      "en": "fire selector",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0084",
+      "type": "word",
+      "pl": "przeładować",
+      "en": "reload",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0085",
+      "type": "word",
+      "pl": "przeładunek",
+      "en": "transshipment",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0086",
+      "type": "word",
+      "pl": "przemyt",
+      "en": "smuggling",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0087",
+      "type": "word",
+      "pl": "przeprowadzać śledztwo",
+      "en": "conduct an investigation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0088",
+      "type": "word",
+      "pl": "przesłuchanie",
+      "en": "interrogation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0089",
+      "type": "word",
+      "pl": "przeszkoda",
+      "en": "obstacle",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0090",
+      "type": "word",
+      "pl": "przydzielić",
+      "en": "assign",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0091",
+      "type": "word",
+      "pl": "przygotowanie",
+      "en": "preparation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0092",
+      "type": "word",
+      "pl": "pułk",
+      "en": "regiment",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0093",
+      "type": "word",
+      "pl": "rebelia",
+      "en": "rebellion",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0094",
+      "type": "word",
+      "pl": "rebeliant",
+      "en": "insurgent",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0095",
+      "type": "word",
+      "pl": "rekrut",
+      "en": "recruit",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0096",
+      "type": "word",
+      "pl": "rekrutacja",
+      "en": "recruitment",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0097",
+      "type": "word",
+      "pl": "rękojeść przeładowania",
+      "en": "charging handle",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0098",
+      "type": "word",
+      "pl": "rozbroić",
+      "en": "disarm",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0099",
+      "type": "word",
+      "pl": "rozlokowany",
+      "en": "deployed",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0100",
+      "type": "word",
+      "pl": "rozpocząć dochodzenie",
+      "en": "launch an investigation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0101",
+      "type": "word",
+      "pl": "rozkaz",
+      "en": "order",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0102",
+      "type": "word",
+      "pl": "rząd",
+      "en": "government",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0103",
+      "type": "word",
+      "pl": "siły koalicji",
+      "en": "coalition forces",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0104",
+      "type": "word",
+      "pl": "siły powietrzne",
+      "en": "air force",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0105",
+      "type": "word",
+      "pl": "siły specjalne",
+      "en": "special forces",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0106",
+      "type": "word",
+      "pl": "składać się z",
+      "en": "consist of",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0107",
+      "type": "word",
+      "pl": "spust",
+      "en": "trigger",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0108",
+      "type": "word",
+      "pl": "straż przybrzeżna",
+      "en": "coast guard",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0109",
+      "type": "word",
+      "pl": "strzelać",
+      "en": "shoot",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0110",
+      "type": "word",
+      "pl": "strzelnica",
+      "en": "shooting range",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0111",
+      "type": "word",
+      "pl": "szkolenie",
+      "en": "training",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0112",
+      "type": "word",
+      "pl": "szkolenie podstawowe",
+      "en": "basic training",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0113",
+      "type": "word",
+      "pl": "szlak wodny",
+      "en": "waterway",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0114",
+      "type": "word",
+      "pl": "śledztwo",
+      "en": "investigation",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0115",
+      "type": "word",
+      "pl": "talibowie",
+      "en": "the Taliban",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0116",
+      "type": "word",
+      "pl": "tankowiec",
+      "en": "tanker",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0117",
+      "type": "word",
+      "pl": "targ",
+      "en": "summit",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0118",
+      "type": "word",
+      "pl": "terroryzm",
+      "en": "terrorism",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0119",
+      "type": "word",
+      "pl": "transport opancerzony",
+      "en": "armoured transport",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0120",
+      "type": "word",
+      "pl": "transporter opancerzony",
+      "en": "armoured personnel carrier",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0121",
+      "type": "word",
+      "pl": "uchodźca",
+      "en": "refugee",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0122",
+      "type": "word",
+      "pl": "układ",
+      "en": "agreement",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0123",
+      "type": "word",
+      "pl": "uzbrojony",
+      "en": "armed",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0124",
+      "type": "word",
+      "pl": "walczyć",
+      "en": "fight",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0125",
+      "type": "word",
+      "pl": "wstrzymać ogień",
+      "en": "cease fire",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0126",
+      "type": "word",
+      "pl": "wybuch",
+      "en": "explosion",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0127",
+      "type": "word",
+      "pl": "wycofać się",
+      "en": "withdraw",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0128",
+      "type": "word",
+      "pl": "wywiad",
+      "en": "intelligence",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0129",
+      "type": "word",
+      "pl": "wysunięty",
+      "en": "forward",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0130",
+      "type": "word",
+      "pl": "wziąć odwet",
+      "en": "retaliate",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0131",
+      "type": "word",
+      "pl": "wzrost",
+      "en": "increase",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0132",
+      "type": "word",
+      "pl": "zabezpieczenie logistyczne",
+      "en": "combat service support",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0133",
+      "type": "word",
+      "pl": "zawieszenie broni",
+      "en": "ceasefire",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0134",
+      "type": "word",
+      "pl": "zdolność",
+      "en": "capability",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0135",
+      "type": "word",
+      "pl": "żegluga",
+      "en": "shipping",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0136",
+      "type": "word",
+      "pl": "żołnierz",
+      "en": "soldier",
+      "topic": "Słownictwo"
+    },
+    {
+      "id": "notes-0137",
+      "type": "sentence",
+      "pl": "Wątpię, czy oni w pełni rozumieją, o czym mówił prelegent.",
+      "en": "I doubt they fully understand what the speaker was talking about.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0138",
+      "type": "sentence",
+      "pl": "Za każdym razem, gdy Brian prosi mnie o radę, wiem, że ma kłopoty.",
+      "en": "Every time Brian asks me for advice, I know he is in trouble.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0139",
+      "type": "sentence",
+      "pl": "Co dokładnie masz na myśli, mówiąc, że twoje stanowisko jest zagrożone?",
+      "en": "What exactly do you mean when you say your position is at risk?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0140",
+      "type": "sentence",
+      "pl": "Widzę, że twój angielski się poprawia. Czy masz jakieś dodatkowe lekcje?",
+      "en": "I can see that your English is improving. Are you taking any extra lessons?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0141",
+      "type": "sentence",
+      "pl": "Przykro nam, ale tego lata nie zatrudniamy żadnych pracowników sezonowych.",
+      "en": "We are sorry, but we are not hiring any seasonal workers this summer.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0142",
+      "type": "sentence",
+      "pl": "Nie przeszkadzajcie nam teraz. Mamy bardzo ważne spotkanie.",
+      "en": "Do not disturb us now. We are having a very important meeting.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0143",
+      "type": "sentence",
+      "pl": "Dan zawsze opowiada tę samą historię i nie zdaje sobie sprawy, że ludzie są nią zmęczeni.",
+      "en": "Dan always tells the same story and does not realize that people are tired of it.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0144",
+      "type": "sentence",
+      "pl": "Te pudła tu nie leżały. Zabierz je i połóż je obok tamtych pudeł.",
+      "en": "These boxes were not here. Take them away and put them next to those boxes.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0145",
+      "type": "sentence",
+      "pl": "Dziewczyna, która się uśmiecha, jest moją koleżanką.",
+      "en": "The girl who is smiling is my friend.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0146",
+      "type": "sentence",
+      "pl": "Znam park, w którym możesz się zrelaksować.",
+      "en": "I know a park where you can relax.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0147",
+      "type": "sentence",
+      "pl": "Lato to czas, w którym czuję się najszczęśliwszy.",
+      "en": "Summer is the time when I feel happiest.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0148",
+      "type": "sentence",
+      "pl": "Podoficerowie są odpowiedzialni za musztrę i szkolenie żołnierzy.",
+      "en": "Non-commissioned officers are responsible for drill and the training of soldiers.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0149",
+      "type": "sentence",
+      "pl": "Kiedy on został wyznaczony na stanowisko starszego specjalisty w Biurze Ochrony i Osłony?",
+      "en": "When was he appointed to the position of senior specialist in the Protection and Security Office?",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0150",
+      "type": "sentence",
+      "pl": "Głównym zadaniem wywiadu jest gromadzenie informacji o lokalizacji i liczebności wojsk przeciwnika.",
+      "en": "The main task of intelligence is to gather information about the location and strength of enemy forces.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0151",
+      "type": "sentence",
+      "pl": "Misją piechoty jest związanie przeciwnika walką i pokonanie go w bezpośredniej walce.",
+      "en": "The mission of the infantry is to engage the enemy and defeat them in close combat.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0152",
+      "type": "sentence",
+      "pl": "Polska Armia przestała być armią poborową, a stała się armią zawodową w 2008 roku.",
+      "en": "The Polish Army ceased to be a conscript army and became a professional army in 2008.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0153",
+      "type": "sentence",
+      "pl": "Nigdy nie uczestniczyłam w szkoleniu językowym.",
+      "en": "I have never attended a language training course.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0154",
+      "type": "sentence",
+      "pl": "Kiedy byłaś awansowana na chorążego?",
+      "en": "When were you promoted to warrant officer?",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0155",
+      "type": "sentence",
+      "pl": "Polski patrol został ostrzelany silnym i celnym ogniem przez talibów.",
+      "en": "The Polish patrol came under heavy and accurate fire from the Taliban.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0156",
+      "type": "sentence",
+      "pl": "Długość tego bojowego wozu piechoty wynosi 4593 mm, a szerokość transportera opancerzonego to 2534 mm.",
+      "en": "This infantry fighting vehicle is 4,593 mm long, and the armoured personnel carrier is 2,534 mm wide.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0157",
+      "type": "sentence",
+      "pl": "Batalion w piechocie brytyjskiej składa się z czterech kompanii: trzech kompanii piechoty i jednej kompanii wsparcia. Dowódca batalionu jest zazwyczaj podpułkownikiem, a zastępcą jest major.",
+      "en": "In the British infantry, a battalion consists of four companies: three infantry companies and one support company. The battalion commander is usually a lieutenant colonel, and the deputy is a major.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0158",
+      "type": "sentence",
+      "pl": "Jednostki bojowe są zaangażowane w bezpośrednią walkę z wrogiem. Jednostki wsparcia bojowego zapewniają wsparcie artyleryjskie i inżynieryjne, a zabezpieczenie logistyczne zajmuje się transportem, dostarczaniem racji bojowych i wyposażenia żołnierzom biorącym udział w walkach.",
+      "en": "Combat units are engaged in direct combat with the enemy. Combat support units provide artillery and engineering support, while combat service support handles transport and the delivery of rations and equipment to soldiers involved in combat.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0159",
+      "type": "sentence",
+      "pl": "W czasie szkolenia podstawowego weźmiesz udział w poligonie, nocnych ćwiczeniach z ostrą amunicją oraz ćwiczeniach w terenie zabudowanym. Instruktor nakaże ci pokonywać tor przeszkód, celnie strzelać i robić pompki oraz brzuszki. Po ceremonii zakończenia szkolenia podstawowego zostaniesz wysłany na szkolenie specjalistyczne, zgodne z wybraną specjalnością wojskową.",
+      "en": "During basic training, you will take part in field exercises, night live-fire exercises and urban combat training. Your instructor will order you to complete an obstacle course, shoot accurately, and do push-ups and sit-ups. After the basic training graduation ceremony, you will be sent for specialist training in your chosen military specialty.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0160",
+      "type": "sentence",
+      "pl": "Dlaczego ona nie awansowała przez ostatnie 10 lat? Wszyscy wiedzą, że jej dowódca jej nie lubi i znajdzie jakikolwiek powód, żeby nie dać jej awansu.",
+      "en": "Why has she not been promoted in the last ten years? Everyone knows that her commander does not like her and will find any excuse not to promote her.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0161",
+      "type": "sentence",
+      "pl": "Po podpisaniu kolejnej kadencji możesz zostać rozlokowany w Afganistanie lub Iraku, gdzie spędzisz 6 miesięcy walcząc z przeciwnikiem lub biorąc udział w patrolach rozpoznania.",
+      "en": "After signing up for another term of service, you may be deployed to Afghanistan or Iraq, where you will spend six months fighting the enemy or taking part in reconnaissance patrols.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0162",
+      "type": "sentence",
+      "pl": "Jan Koc został promowany na pierwszy stopień oficerski – podporucznika w 1997, sześć lat później został awansowany na kapitana i został przydzielony do czwartego pułku zmechanizowanego, gdzie objął stanowisko dowódcy kompanii.",
+      "en": "Jan Koc was commissioned as a second lieutenant in 1997. Six years later, he was promoted to captain and assigned to the 4th Mechanized Regiment, where he took up the post of company commander.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0163",
+      "type": "sentence",
+      "pl": "W sytuacjach bojowych żołnierz ma na sobie mundur polowy (nazwa obecnego typu munduru US Army), hełm, buty, kamizelkę taktyczno-balistyczną oraz ma przydziałową broń armii amerykańskiej – M16.",
+      "en": "In combat situations, a soldier wears a combat uniform (the current type of US Army uniform), a helmet, boots and a tactical ballistic vest, and carries a standard-issue M16 rifle.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0164",
+      "type": "sentence",
+      "pl": "W czasie operacji pokojowych żołnierze obsadzają posterunki obserwacyjne i punkty kontroli, przeszukują zabudowania i pomagają uchodźcom.",
+      "en": "During peacekeeping operations, soldiers man observation posts and checkpoints, search buildings and help refugees.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0165",
+      "type": "sentence",
+      "pl": "Podstawowe części karabinka szturmowego M16 to: kolba, przyrządy celownicze, lufa, spust, rękojeść przeładowania i przełącznik rodzaju ognia.",
+      "en": "The main parts of an M16 assault rifle are the stock, sights, barrel, trigger, charging handle and fire selector.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0166",
+      "type": "sentence",
+      "pl": "To są podstawowe zasady bezpieczeństwa na strzelnicy: nigdy nie kieruj broni w stronę istot żywych, zawsze sprawdzaj, czy broń nie jest załadowana, zanim podasz ją komukolwiek, połóż palec na spuście tylko jeśli zamierzasz oddać strzał.",
+      "en": "These are the basic safety rules at a shooting range: never point a weapon at a living being, always check that a weapon is unloaded before handing it to anyone, and only put your finger on the trigger if you intend to fire.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0167",
+      "type": "sentence",
+      "pl": "Wysunięty posterunek Restrepo został założony, aby zapobiec atakom prowadzonym przez uzbrojone bojówki Talibów na Siły Koalicji i aby ograniczyć przemyt broni i rebeliantów przez granicę.",
+      "en": "The Restrepo outpost was established to prevent attacks by armed Taliban groups against Coalition Forces and to limit the smuggling of weapons and insurgents across the border.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0168",
+      "type": "sentence",
+      "pl": "Operatorzy sił specjalnych są umieszczani poza linią wroga, prowadzą tajne operacje, a potem są podejmowani przy użyciu śmigłowców.",
+      "en": "Special forces operators are inserted behind enemy lines, conduct covert operations and are then extracted by helicopter.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0169",
+      "type": "sentence",
+      "pl": "Wczoraj polskie wojska zostały ostrzelane przez rebeliantów w pobliżu miejscowości Umankel. Zgodnie z procedurami dowódca patrolu wydał rozkaz opuszczenia transportera opancerzonego i odpowiedzenia ogniem.",
+      "en": "Yesterday, Polish troops came under fire from insurgents near the town of Umankel. In accordance with procedures, the patrol commander ordered the troops to dismount from the armoured personnel carrier and return fire.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0170",
+      "type": "sentence",
+      "pl": "Kto obsadza ten posterunek obserwacyjny? Kto tutaj dowodzi?",
+      "en": "Who is manning this observation post? Who is in command here?",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0171",
+      "type": "sentence",
+      "pl": "Wojska powietrzno-szturmowe mogą być wykorzystywane w sytuacjach nadzwyczajnych, kiedy przenikają głęboko na terytorium wroga, aby zająć kluczowe obiekty. Są oni szczególnie skuteczni w terenie zabudowanym.",
+      "en": "Air assault troops can be deployed in emergencies, penetrating deep into enemy territory to seize key objectives. They are particularly effective in urban areas.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0172",
+      "type": "sentence",
+      "pl": "Jednostki „Pierwszego Rzutu” charakteryzują się wysokim poziomem tajności, preferencyjnym finansowaniem i zadaniowaniem poza normalną strukturą łańcucha dowodzenia.",
+      "en": "Tier One units are characterized by a high level of secrecy, preferential funding and tasking outside the normal chain of command.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0173",
+      "type": "sentence",
+      "pl": "Twoim zadaniem – jako operatora wojsk specjalnych – jest pojmanie osoby określanej jako „wartościowy cel” i przesłuchanie jej w areszcie. Jeśli będzie się opierała, musisz ją wyeliminować.",
+      "en": "Your task as a special forces operator is to capture a person designated as a high-value target and interrogate them in custody. If they resist, you must eliminate them.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0174",
+      "type": "sentence",
+      "pl": "Prezydent Rurytanii przybędzie do Polski z oficjalną dwudniową wizytą na zaproszenie polskiego prezydenta.",
+      "en": "The President of Ruritania will arrive in Poland for an official two-day visit at the invitation of the Polish president.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0175",
+      "type": "sentence",
+      "pl": "Zaraz po przybyciu prezydent Bambalagi i prezydent Kowalski mają podpisać dwustronny układ o nierozprzestrzenianiu broni atomowej.",
+      "en": "Immediately after their arrival, President Bambalagi and President Kowalski are scheduled to sign a bilateral nuclear non-proliferation agreement.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0176",
+      "type": "sentence",
+      "pl": "Czy polska kiedykolwiek wypowiedziała wojnę Niemcom?",
+      "en": "Has Poland ever declared war on Germany?",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0177",
+      "type": "sentence",
+      "pl": "Improwizowany ładunek wybuchowy został podłożony przy meczecie w centrum Kabulu przez rebeliantów przebranych w amerykańskie mundury.",
+      "en": "An improvised explosive device was planted near a mosque in central Kabul by insurgents disguised in American uniforms.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0178",
+      "type": "sentence",
+      "pl": "Samochód wyładowany materiałami wybuchowymi wybuchł właśnie gdy mijał go pierwszy transporter opancerzony z naszego patrolu.",
+      "en": "A car loaded with explosives exploded just as the first armoured personnel carrier in our patrol was passing it.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0179",
+      "type": "sentence",
+      "pl": "Siły specjalne to taki rodzaj sił zbrojnych polskiej armii, który jest w stanie prowadzić niekonwencjonalne działania zbrojne na wrogim terenie.",
+      "en": "Special forces are a branch of the Polish Armed Forces capable of conducting unconventional military operations in hostile territory.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0180",
+      "type": "sentence",
+      "pl": "We wtorek prezydent Obama rozpoczął podróż do Europy, w szczególności zamierza złożyć wizytę w Estonii i wziąć udział w spotkaniu na szczycie NATO, gdzie będą dyskutowane problemy budzące zaniepokojenie na świecie.",
+      "en": "On Tuesday, President Obama began a trip to Europe. In particular, he plans to visit Estonia and attend a NATO summit, where issues of global concern will be discussed.",
+      "topic": "Zdania — wojskowe"
+    },
+    {
+      "id": "notes-0181",
+      "type": "sentence",
+      "pl": "Na zdjęciu jest żołnierz w mundurze polowym i w pełnym oporządzeniu.",
+      "en": "In the picture, there is a soldier in a combat uniform and full equipment.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0182",
+      "type": "sentence",
+      "pl": "Gdzie są wasze cywilne ubrania?",
+      "en": "Where are your civilian clothes?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0183",
+      "type": "sentence",
+      "pl": "Ile on ma amunicji?",
+      "en": "How much ammunition does he have?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0184",
+      "type": "sentence",
+      "pl": "Jak często rekruci mają szkolenie strzeleckie na strzelnicy?",
+      "en": "How often do recruits undergo shooting training at the shooting range?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0185",
+      "type": "sentence",
+      "pl": "Dlaczego kandydat nagle zdecydował się wycofać z nadchodzącego wyścigu prezydenckiego?",
+      "en": "Why did the candidate suddenly decide to withdraw from the upcoming presidential race?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0186",
+      "type": "sentence",
+      "pl": "Światowi przywódcy gromadzą się właśnie w Warszawie, aby wziąć udział w dorocznym szczycie gospodarczym.",
+      "en": "World leaders are gathering in Warsaw to attend the annual economic summit.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0187",
+      "type": "sentence",
+      "pl": "Czy to możliwe, aby sztuczna inteligencja sterowała wieloma dronami jednocześnie bez żadnej pomocy człowieka?",
+      "en": "Is it possible for artificial intelligence to control multiple drones simultaneously without any human assistance?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0188",
+      "type": "sentence",
+      "pl": "System obrony powietrznej zdołał przechwycić wrogi pocisk, zanim ten zdołał dotrzeć do centrum miasta.",
+      "en": "The air defence system managed to intercept the enemy missile before it could reach the city centre.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0189",
+      "type": "sentence",
+      "pl": "Rząd zdecydował się nałożyć surowsze regulacje na lokalne przedsiębiorstwa, aby ograniczyć emisję dwutlenku węgla.",
+      "en": "The government decided to impose stricter regulations on local businesses to reduce carbon dioxide emissions.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0190",
+      "type": "sentence",
+      "pl": "Jakie środki powinna podjąć społeczność międzynarodowa, aby uniknąć wybuchu globalnego kryzysu gospodarczego?",
+      "en": "What measures should the international community take to prevent the outbreak of a global economic crisis?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0191",
+      "type": "sentence",
+      "pl": "Czy wiesz, czy śledztwo zostało wszczęte z inicjatywy premiera, czy szefa lokalnej policji?",
+      "en": "Do you know whether the investigation was launched at the initiative of the prime minister or the head of the local police?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0192",
+      "type": "sentence",
+      "pl": "Siły rebelianckie odmówiły zaakceptowania zawieszenia broni, ponieważ nie ufały oficjalnym obietnicom rządu.",
+      "en": "The rebel forces refused to accept the ceasefire because they did not trust the government’s official promises.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0193",
+      "type": "sentence",
+      "pl": "Dlaczego główny bohater filmu wygląda tak buntowniczo w finałowej scenie przed bitwą?",
+      "en": "Why does the main character in the film look so rebellious in the final scene before the battle?",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0194",
+      "type": "sentence",
+      "pl": "Chociaż pracują w tym samym banku, jej francuski odpowiednik zarabia znacznie więcej niż ona.",
+      "en": "Although they work at the same bank, her French counterpart earns significantly more than she does.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0195",
+      "type": "sentence",
+      "pl": "Po wczorajszym cyberataku premier poprzysiągł natychmiastowy odwet na wrogim państwie.",
+      "en": "After yesterday’s cyberattack, the prime minister vowed immediate retaliation against the hostile country.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0196",
+      "type": "sentence",
+      "pl": "Zanim nowa rada nadzorcza przejęła firmę, akcjonariusze skrupulatnie wybrali starego prezesa.",
+      "en": "Before the new supervisory board took over the company, the shareholders carefully selected the previous CEO.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0197",
+      "type": "sentence",
+      "pl": "Jeśli inflacja będzie nadal rosła, plan gospodarczy rządu całkowicie się rozpadnie.",
+      "en": "If inflation continues to rise, the government’s economic plan will completely fall apart.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0198",
+      "type": "sentence",
+      "pl": "Wojsko buduje nową bazę na klifach górujących nad strategicznym szlakiem wodnym.",
+      "en": "The military is building a new base on the cliffs overlooking a strategic waterway.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0199",
+      "type": "sentence",
+      "pl": "Od miesięcy straż przybrzeżna monitoruje całą żeglugę przepływającą przez kanał.",
+      "en": "For months, the coast guard has been monitoring all shipping passing through the channel.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0200",
+      "type": "sentence",
+      "pl": "Gdyby doszło do przejęcia tego tankowca, sojusznicy z pewnością wzięliby odwet.",
+      "en": "If the tanker were seized, the allies would certainly retaliate.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0201",
+      "type": "sentence",
+      "pl": "Z powodu nagłego wzrostu nielegalnego handlu policja rozpoczęła masowe śledztwo.",
+      "en": "Due to a sudden increase in illegal trafficking, the police launched a major investigation.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0202",
+      "type": "sentence",
+      "pl": "Rzecznik prasowy stanowczo zaprzeczył, że firma była zaangażowana w przemyt towarów drogą morską.",
+      "en": "The spokesperson strongly denied that the company had been involved in smuggling goods by sea.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0203",
+      "type": "sentence",
+      "pl": "Ta kompania składa się z trzech plutonów.",
+      "en": "This company consists of three platoons.",
+      "topic": "Zdania — ogólne i aktualności"
+    },
+    {
+      "id": "notes-0204",
+      "type": "abbr",
+      "pl": "BCT",
+      "en": "Brigade Combat Team — brygadowy zespół bojowy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0205",
+      "type": "abbr",
+      "pl": "AIT",
+      "en": "Advanced Individual Training — zaawansowane szkolenie indywidualne",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0206",
+      "type": "abbr",
+      "pl": "MOS",
+      "en": "Military Occupational Specialty — specjalność wojskowa",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0207",
+      "type": "abbr",
+      "pl": "ITV",
+      "en": "In-Transit Visibility — widoczność przesyłek w transporcie",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0208",
+      "type": "abbr",
+      "pl": "APC",
+      "en": "Armoured Personnel Carrier — transporter opancerzony",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0209",
+      "type": "abbr",
+      "pl": "PX",
+      "en": "Post Exchange — sklep wojskowy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0210",
+      "type": "abbr",
+      "pl": "NCO",
+      "en": "Non-Commissioned Officer — podoficer",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0211",
+      "type": "abbr",
+      "pl": "FTX",
+      "en": "Field Training Exercise — ćwiczenia terenowe",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0212",
+      "type": "abbr",
+      "pl": "PT",
+      "en": "Physical Training — trening fizyczny",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0213",
+      "type": "abbr",
+      "pl": "CO",
+      "en": "Commanding Officer — dowódca",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0214",
+      "type": "abbr",
+      "pl": "OC",
+      "en": "Officer Commanding — oficer dowodzący",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0216",
+      "type": "abbr",
+      "pl": "XO",
+      "en": "Executive Officer — zastępca dowódcy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0217",
+      "type": "abbr",
+      "pl": "HQ",
+      "en": "Headquarters — kwatera główna",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0218",
+      "type": "abbr",
+      "pl": "AOC",
+      "en": "Air Operations Centre — centrum operacji powietrznych",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0219",
+      "type": "abbr",
+      "pl": "OTV",
+      "en": "Outer Tactical Vest — zewnętrzna kamizelka taktyczna",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0220",
+      "type": "abbr",
+      "pl": "Pte",
+      "en": "Private — szeregowy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0221",
+      "type": "abbr",
+      "pl": "Sgt",
+      "en": "Sergeant — sierżant",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0222",
+      "type": "abbr",
+      "pl": "Cpl",
+      "en": "Corporal — kapral",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0223",
+      "type": "abbr",
+      "pl": "WO1",
+      "en": "Warrant Officer Class 1 — starszy chorąży (system brytyjski)",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0224",
+      "type": "abbr",
+      "pl": "Ops officer",
+      "en": "Operations Officer — oficer operacyjny",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0225",
+      "type": "abbr",
+      "pl": "BN HQ",
+      "en": "Battalion Headquarters — dowództwo batalionu",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0226",
+      "type": "abbr",
+      "pl": "MBT",
+      "en": "Main Battle Tank — czołg podstawowy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0227",
+      "type": "abbr",
+      "pl": "PFP",
+      "en": "Partnership for Peace — Partnerstwo dla Pokoju",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0228",
+      "type": "abbr",
+      "pl": "CASEVAC",
+      "en": "Casualty Evacuation — ewakuacja poszkodowanych",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0229",
+      "type": "abbr",
+      "pl": "SOP",
+      "en": "Standard Operating Procedure — standardowa procedura operacyjna",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0230",
+      "type": "abbr",
+      "pl": "Coy",
+      "en": "Company — kompania",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0231",
+      "type": "abbr",
+      "pl": "Capt",
+      "en": "Captain — kapitan",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0232",
+      "type": "abbr",
+      "pl": "VBIED",
+      "en": "Vehicle-Borne Improvised Explosive Device — improwizowany ładunek wybuchowy przenoszony pojazdem",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0233",
+      "type": "abbr",
+      "pl": "CSS",
+      "en": "Combat Service Support — zabezpieczenie logistyczne",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0234",
+      "type": "abbr",
+      "pl": "FoF",
+      "en": "Force-on-Force — ćwiczenie siła przeciw sile",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0235",
+      "type": "abbr",
+      "pl": "AO",
+      "en": "Area of Operations — obszar działań",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0236",
+      "type": "abbr",
+      "pl": "AR",
+      "en": "Area of Responsibility — obszar odpowiedzialności",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0237",
+      "type": "abbr",
+      "pl": "ETD",
+      "en": "Estimated Time of Departure — szacowany czas odjazdu / odlotu",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0238",
+      "type": "abbr",
+      "pl": "ETA",
+      "en": "Estimated Time of Arrival — szacowany czas przyjazdu / przylotu",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0239",
+      "type": "abbr",
+      "pl": "MRAP",
+      "en": "Mine-Resistant Ambush Protected Vehicle — pojazd odporny na miny i zasadzki",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0240",
+      "type": "abbr",
+      "pl": "POW",
+      "en": "Prisoner of War — jeniec wojenny",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0241",
+      "type": "abbr",
+      "pl": "MIA",
+      "en": "Missing in Action — zaginiony w akcji",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0242",
+      "type": "abbr",
+      "pl": "KIA",
+      "en": "Killed in Action — poległy w akcji",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0243",
+      "type": "abbr",
+      "pl": "CSAR",
+      "en": "Combat Search and Rescue — bojowe poszukiwanie i ratownictwo",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0244",
+      "type": "abbr",
+      "pl": "MTO",
+      "en": "Military Training Officer — oficer szkolenia wojskowego",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0245",
+      "type": "abbr",
+      "pl": "IED",
+      "en": "Improvised Explosive Device — improwizowany ładunek wybuchowy",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0246",
+      "type": "abbr",
+      "pl": "NATO",
+      "en": "North Atlantic Treaty Organization — Organizacja Traktatu Północnoatlantyckiego",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0247",
+      "type": "abbr",
+      "pl": "UAV",
+      "en": "Unmanned Aerial Vehicle — bezzałogowy statek powietrzny",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0248",
+      "type": "abbr",
+      "pl": "AI",
+      "en": "Artificial Intelligence — sztuczna inteligencja",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0249",
+      "type": "abbr",
+      "pl": "OP",
+      "en": "Observation Post — posterunek obserwacyjny",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0250",
+      "type": "abbr",
+      "pl": "HVT",
+      "en": "High-Value Target — cel wysokiej wartości",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0251",
+      "type": "abbr",
+      "pl": "WOT",
+      "en": "Wojska Obrony Terytorialnej — Territorial Defence Forces",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0252",
+      "type": "abbr",
+      "pl": "SOF",
+      "en": "Special Operations Forces — siły operacji specjalnych",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0253",
+      "type": "abbr",
+      "pl": "US Army",
+      "en": "United States Army — armia Stanów Zjednoczonych",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0254",
+      "type": "abbr",
+      "pl": "M16",
+      "en": "M16 rifle — karabin M16",
+      "topic": "Skróty"
+    },
+    {
+      "id": "notes-0255",
+      "type": "abbr",
+      "pl": "NCOs",
+      "en": "Non-Commissioned Officers — podoficerowie",
+      "topic": "Skróty"
+    }
+  ]
+}
